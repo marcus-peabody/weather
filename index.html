@@ -1,0 +1,48 @@
+<!DOCTYPE html><html><head>
+    <script src="p5.min.js"></script>
+    <script src="p5.dom.min.js"></script>
+    <script src="p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8">
+
+  </head>
+    
+    
+    
+  <body>
+        <button onclick="about()" id="aboutBtn">About</button>
+      
+       <div class = "sketch">
+            <script src="sketch.js"></script>
+       </div>
+    
+    <div id="interface">
+        <div id = "rn">Right now</div>
+        <div id = "i">at the</div>
+        <div id="inputX">
+            <input id="city" placeholder="RISD Museum" onfocus="{this.value = 'Enter a City'; this.select()}">
+            <button id="submit" onclick="newCity()">go</button>
+        </div>
+        <div id = "is">the weather is:</div>
+        <div class = "caps">
+            <p id = "one"></p>
+            <p id = "two"></p>
+            <p id = "three"></p>
+        </div>
+    </div>
+   
+      <script>
+        var input = document.getElementById("city");
+        input.addEventListener("keyup", function(event) {
+          event.preventDefault();
+          if (event.keyCode === 13) {
+            document.getElementById("submit").click();
+          }
+        });
+      </script>        
+    
+      <div id = "c">
+The weather touches everything from the urgent issues of climate change, to the ubiquitous mundanities of everyday life. It is a minor inconvenience, a topic of small talk, or a geopolitical crisis. It is global but still entirely personal.<br><br>Unsurprisingly it infuses art and design.<br><br>Rococo painters like grand cumulonimbus clouds behind the grand subjects of their <a href ="https://risdmuseum.org/art-design/collection/musical-group-44161/" target="_blank">grand paintings</a>. Cirrocumulus, altocumulus and stratocumulus suit the <a href ="https://risdmuseum.org/art-design/collection/seine-giverny-44541/" target="_blank">brush strokes</a> of the impressionists. The clothes we wear play (at least some) practical role in keeping off the rain, or <a href ="https://risdmuseum.org/art-design/collection/snow-suit-62103011/" target="_blank">keeping in the heat</a>. The environment creeps into artists’ and designers’ minds, and yields grey smoggy lithographs of the <a href ="https://risdmuseum.org/art-design/collection/nocturne-thames-battersea-1992001137/" target="_blank">Thames</a>, and bright <a href ="https://risdmuseum.org/art-design/collection/mans-wearing-blanket-31183/" target="_blank">textiles</a> from the American Southwest.<br><br>The result is that in museums — where art is often curated by era and region — every work in a gallery often depicts, or is the product of the same weather. This website draws from the collection at the RISD Museum to make the same connections, but across the collection.<br><br><br>
+        </div>           
+            
+</body></html>

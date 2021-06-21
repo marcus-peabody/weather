@@ -1,0 +1,294 @@
+{  
+   "clouds":[  
+      {  
+         "img":"s_0",
+         "title":"Cloudless like this Boudin painting.",
+         "artist":"Marcus Peabody",
+         "media":"Silk, velvet, fur, faux pearls"
+      },
+      {  
+         "img":"s_10",
+         "title":"Mostly clear.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls"
+      },
+      {  
+         "img":"s_20",
+         "title":"Patchy clouds like this Cézanne.",
+         "artist":"Marcus Peabody",
+         "media":"Silk, velvet, fur, faux pearls"
+      },
+      {  
+         "img":"s_30",
+         "title":"Cloudy like &lsquo;Wash Day&rsquo; by Grandma Moses.",
+         "artist":"Marcus Peabody",
+         "media":"Silk, velvet, fur, faux pearls"
+      },
+      {  
+         "img":"s_40",
+         "title":"Scattered clouds, about the same as this van Gogh.",
+         "artist":"Marcus Peabody",
+         "media":"Silk, velvet, fur, faux pearls"
+      },
+      {  
+         "img":"s_50",
+         "title":"Partially Cloudy.",
+         "artist":"Marcus Peabody",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+      {  
+         "img":"s_60",
+         "title":"Charles Sheeler—cloudy.",
+         "artist":"Marcus Peabody",
+         "media":"Silk, velvet, fur, faux pearls"
+      },
+      {  
+         "img":"s_70",
+         "title":"Thick clouds, like this Monet.",
+         "artist":"Marcus Peabody",
+         "media":"Silk, velvet, fur, faux pearls"
+      },
+      {  
+         "img":"s_80",
+         "title":"Overcast like this Locatelli.",
+         "artist":"Marcus Peabody",
+         "media":"Silk, velvet, fur, faux pearls"
+      },
+      {  
+         "img":"s_90",
+         "title":"Overcast like this Aaron Douglas.",
+         "artist":"Marcus Peabody",
+         "media":"Silk, velvet, fur, faux pearls"
+      },
+      {  
+         "img":"s_100",
+         "title":"Overcast as this 1670 Harbour Scene.",
+         "artist":"Marcus Peabody",
+         "media":"Silk, velvet, fur, faux pearls"
+      }
+   ],
+  
+  
+    
+    
+    "clothes":[ 
+         {  
+         "img":"c_10",
+         "title":"Freezing! Put on this Canadian Snow Suit.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+      {  
+         "img":"c_15",
+         "title":"Cold! Wear this Paul Poire coat.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_20",
+         "title":"Pretty cold. You'll need these Chinese snow boots.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_25",
+         "title":"Cold enough to wear this Todd Oldham coat.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_30",
+         "title":"Cold, but this Arthur Mellen coat will help.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_35",
+         "title":"Cold, but try this parka today.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_40",
+         "title":"Chilly, but wear this van Beirendonck sweatshirt.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_45",
+         "title":"Chilly, but we suggest this jacket.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_50",
+         "title":"Cold, but wear James Adams Woolson's Suit and you'll be fine.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_55",
+         "title":"Warming up, so wear this Irene Lentz Gibbons Suit.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_60",
+         "title":"Warming up!",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_65",
+         "title":"About right for a Pauline Trigère dress.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_70",
+         "title":"Warm. Put on this Brent Sportswear shirt.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_75",
+         "title":"Warm enough to wear this.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_80",
+         "title":"Sandals compatible.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_85",
+         "title":"Warm enough for this Elizabeth Hawes dress.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_90",
+         "title":"Getting hot. Stay cool in this.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_95",
+         "title":"Hot enough to swim. Can you swim in this?",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+          {  
+         "img":"c_100",
+         "title":"Boiling. desperate measures!",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      }
+      
+   ],
+  
+    
+    
+    
+    "weath":[  
+      {  
+         "img":"w_2",
+         "title":"&lsquo;Such Sweet <i>Thunder</i>&rsquo; by Herb Snitzer.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+        {  
+         "img":"w_3a",
+         "title":"&lsquo;<i>Rain</i>, Kameyama&rsquo; by Utagawa Hiroshige.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+        {  
+         "img":"w_3b",
+         "title":"&lsquo;<i>Rain</i>&rsquo; by David Hockney.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+        {  
+         "img":"w_5a",
+         "title":"<i>Rain</i> Beauts &lsquo;Shoe Covers&rsquo;.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+        {  
+         "img":"w_5b",
+         "title":"&lsquo;<i>Rain</i> Storm at Jiuliancheng&rsquo; by Kobayashi Kiyochika.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+        {  
+         "img":"w_6",
+         "title":"&lsquo;<i>Snow</i> in Atagoshita and Yabu Lane&rsquo; by Utagawa Hiroshige.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+        {  
+         "img":"w_7",
+         "title":"&lsquo;<i>Fog</i> on the Thames&rsquo; by James Abbott McNeill Whistler.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+         {  
+         "img":"w_7b",
+         "title":"&lsquo;<i>Hazy</i>&rsquo; by Eugène van Veldhoven.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+        {  
+         "img":"w_8",
+         "title":"&lsquo;<i>Sunny</i>&rsquo;",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+        {  
+         "img":"w_9",
+         "title":"&lsquo;Green rooftops with cliffs and single <i>cloud</i>.&rsquo; by Arthur J. Bell.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      },
+        {  
+         "img":"w_9b",
+         "title":"Clouds by Cy Twombly.",
+         "artist":"Paul Poiret",
+         "media":"Silk, velvet, fur, faux pearls",
+         "link":"https://risdmuseum.org/art-design/collection/coat-590319"
+      }
+   ]
+}
